@@ -28,3 +28,39 @@ Target: 20.235.15.136
 Port: 27568
 Time: 180
 
+UserID: 892775599 | Time: 2024-06-15 18:57:59.460071 | Command: /bgmi | Target: 4.213.65.142 | Port: 12831 | Time: 80
+Username: UserID: 892775599
+Target: 4.213.65.142
+Port: 12831
+Time: 80
+
+UserID: 892775599 | Time: 2024-06-15 19:29:54.205100 | Command: /bgmi | Target: 4.213.65.142 | Port: 12831 | Time: 121
+Username: UserID: 892775599
+Target: 4.213.65.142
+Port: 12831
+Time: 121
+
+UserID: 892775599 | Time: 2024-06-15 19:46:37.080624 | Command: /bgmi | Target: 4.213.65.142 | Port: 12831 | Time: 280
+Username: UserID: 892775599
+Target: 4.213.65.142
+Port: 12831
+Time: 280
+
+UserID: 892775599 | Time: 2024-06-15 19:54:29.780161 | Command: /bgmi | Target: 4.213.68.241 | Port: 23549 | Time: 280
+Username: UserID: 892775599
+Target: 4.213.68.241
+Port: 23549
+Time: 280
+
+UserID: 892775599 | Time: 2024-06-15 21:15:16.254448 | Command: /bgmi | Target: 20.198.110.70 | Port: 22314 | Time: 280
+Username: UserID: 892775599
+Target: 20.198.110.70
+Port: 22314
+Time: 280
+
+UserID: 892775599 | Time: 2024-06-15 23:23:01.733486 | Command: /bgmi | Target: 20.198.110.70 | Port: 22314 | Time: 420
+Username: UserID: 892775599
+Target: 20.198.110.70
+Port: 22314
+Time: 420
+
