@@ -7,10 +7,10 @@ import datetime
 import os
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('74202866:AAEcM_lcYmGPDN6GHGLgf3InRIRZHllncUM')
+bot = telebot.TeleBot('7188679327:AAGg8kguHQX4S3XZjxXpg4Zd_AINalyHK5Q')
 
 # Admin user IDs
-admin_id = ["", "", "", "1694578202"]
+admin_id = ["892775599"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
@@ -235,8 +235,8 @@ def handle_bgmi(message):
             target = command[1]
             port = int(command[2])  # Convert time to integer
             time = int(command[3])  # Convert port to integer
-            if time > 121:
-                response = "Error: Time interval must be less than 80."
+            if time > 420:
+                response = "Error: Time interval must be less than 420."
             else:
                 record_command_logs(user_id, '/bgmi', target, port, time)
                 log_command(user_id, target, port, time)
